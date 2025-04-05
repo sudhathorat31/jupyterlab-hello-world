@@ -3,7 +3,6 @@
 [![Github Actions Status](https://github.com/sudhathorat31/jupyterlab-hello-world/workflows/Build/badge.svg)](https://github.com/sudhathorat31/jupyterlab-hello-world/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sudhathorat31/jupyterlab-hello-world/main?urlpath=lab)
 
-
 A Hello World JupyterLab extension.
 
 ## Requirements
